@@ -1,7 +1,12 @@
+<<<<<<< HEAD
 
 //SECTION FIREBASE
     // Initialize Firebase
     var config = {
+=======
+ // Initialize Firebase
+  var config = {
+>>>>>>> 2610cba646263f85daf3557a52fa4747429cc886
     apiKey: "AIzaSyAsBSMWdIEzARseH2Ar2_L3B-z3pxUeSJs",
     authDomain: "trademark-c83fc.firebaseapp.com",
     databaseURL: "https://trademark-c83fc.firebaseio.com",
