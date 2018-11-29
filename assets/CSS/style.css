@@ -6,10 +6,15 @@ body, html {
     height: 100%;
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
+    background-color: black;
+    position: relative;
 }
+.navbar {
+    color: white;
+} 
 
 .hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/cash.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../images/stock1.jpg");
   height: 50%;
   background-position: center;
   background-repeat: no-repeat;
@@ -26,7 +31,7 @@ body, html {
   color: white;
 }
 
-.hero-text button {
+/* .hero-text button {
   border: none;
   outline: 0;
   display: inline-block;
@@ -35,7 +40,7 @@ body, html {
   background-color: #ddd;
   text-align: center;
   cursor: pointer;
-}
+} */
 
 .hero-text button:hover {
   background-color: #555;
