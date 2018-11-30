@@ -23,3 +23,9 @@ body, html {
   transform: translate(-50%, -50%);
   color: white;
 }
+
+.card {
+    margin-top: 10px;
+    background-color: #353a3f;
+    color: white;
+}
